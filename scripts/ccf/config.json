@@ -1,0 +1,44 @@
+{
+  "url": "https://tipportal-api-sandbox.staging.useferry.com/api/v1/tip-outs/create",
+  "authToken": "Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6Imp3ay10ZXN0LTNmM2NkODcwLTQ5YTktNDE1ZS05NGZmLTNjOWNkMzJhNThiYiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsicHJvamVjdC10ZXN0LTc4YzZmNzgwLTY1YjItNDk2Yi04OTdhLWVmZDQ4NjRmNWRlNCJdLCJhdXRoX3Byb3BlcnR5IjpudWxsLCJhdXRoX3R5cGUiOm51bGwsImVtcGxveWVlX2lkIjpudWxsLCJleHAiOjE3ODcxNDc4MzEsImV4dGVybmFsX2lkIjpudWxsLCJpYXQiOjE3ODcxNDQyMzEsImlzcyI6InN0eXRjaC5jb20vcHJvamVjdC10ZXN0LTc4YzZmNzgwLTY1YjItNDk2Yi04OTdhLWVmZDQ4NjRmNWRlNCIsIm5iZiI6MTc4NzE0NDIzMSwic2NvcGUiOiJ3cml0ZTp0aXBvdXRzIiwic3ViIjoibTJtLWNsaWVudC10ZXN0LWRkODIyNTVmLWIyMDQtNGFjMS1iMThkLWRhNGNkZGVlN2IyMyJ9.sJS0Rjzyjwm5g3vIc-WFGFs7G193TACKH15Nzfz1IaiDksb3iEKbdyCHSZreGU1XvAuBw1CoJE9TwmKFDo3ohFjxATH6klFFs9xbx1VswMUQeWyFfODl5m0JBTf8gzW0mvuZgdHbT6KCd69TM_atKOItSLU5GaxHCVsDNTlhp4-E0wsLyoRPd6aqSqUJLY2tkSt1OJGXb1jVHQFseAlEH03OE4GylBW28Z9DH4dwF-hzrR5_N7Sg1OOwrtM9ye-y9-IaL1Ksr-GuHFUiAtHbyet4u1kLmdo96gGACsvOQM45tMVdcfVo7dp8U9Cg1qYYQFMRdhk2amOVfjH80xngcQ",
+  "payloadTemplate": {
+    "type": 1,
+    "shift": 1,
+    "deposit": 0,
+    "netSales": 0,
+    "paidouts": 0,
+    "sentDate": null,
+    "tipsCash": 0,
+    "cashoutId": 374,
+    "createdAt": "2026-08-13T12:56:17",
+    "salesCash": 0,
+    "tipsOther": 0,
+    "tipsShare": [
+      {
+        "shift": 1,
+        "amount": 18.45,
+        "userId": 2,
+        "storeId": 777,
+        "userJobCode": 90
+      }
+    
+    ],
+    "approvedAt": "2026-08-13T13:18:46",
+    "salesOther": 0,
+    "salesTotal": 45.5,
+    "businessDate": "2026-08-18T04:00:00",
+    "serverUserId": 1,
+    "tipsDeclared": 0,
+    "serverJobCode": 90,
+    "serverStoreId": 777,
+    "distributionId": "00000000-0000-0000-0000-000000000000",
+    "isAutoApproved": true,
+    "declarationDate": "2026-08-13T04:00:00",
+    "tipsTotalTipout": 18.45,
+    "approvedByUserId": null,
+    "lowCashTipReasons": [],
+    "salesCreditGiftCard": 45.5,
+    "tipsCreditOrGiftCard": 18.45,
+    "lowCashTipsReasonsSeparated": "[]"
+  }
+}
